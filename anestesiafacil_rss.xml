@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version = "2.0">
+	<channel>
+		<title>anestesiafacil</title>
+		<link>http://anestesiafacil.com</link>
+		<description>Guía fácil y sencilla sobre la especialidad de anestesiologia</description>
+        <item>
+		  <title>sociedadvalenciana</title>
+		  <link>http://www.anestesiaclinicovalencia.org/sociedadvalenciana.html</link>
+		  <description>Visita la guía fácil sobre la especialidad de anestesiologia y conoce que és</description>
+        </item>
+        <item>
+		  <title>sedar</title>
+		  <link>https://anestesiafacil.com/sedar.html</link>
+		  <description>sociedad española de anestesiología</description>
+		</item>
+        <item>
+		  <title>scartd</title>
+		  <link>https://anestesiafacil.com/scartd.html</link>
+		  <description>sociedad catalana de anestesiología</description>
+		</item>
+        <item>
+		  <title>asahq</title>
+		  <link>https://anestesiafacil.com/asahq.html</link>
+		  <description>sociedad americana de anestesiología</description>
+		</item>
+        <item>
+		  <title>esahq</title>
+		  <link>https://anestesiafacil.com/esahq.html</link>
+		  <description>sociedad europea de anestesiología</description>
+		</item>
+	</channel>
+</rss>
